@@ -10,4 +10,5 @@ The flux is normalised to 6000 Angstroms.
 
 
 A movie demonstrating our basic extinction curve fitting approach can be found in dust_extinction_movie.mp4.
+A low resolution gif is also available.
 Feel free to use this movie in talks, but please cite as Fawcett et al. 2022.

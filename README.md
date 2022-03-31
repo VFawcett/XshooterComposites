@@ -1,7 +1,7 @@
 # X-shooter Red and Blue Quasar Composites
 VLT/X-shooter composites of red and blue quasars, described in Fawcett+2022
 
-The red and blue composites are the files red_spec.fits and blue_spec.fits, respectively. 
+The red and blue composites are the files red_spec.fits and con_spec.fits, respectively. 
 
 Feel free to download and use, but please cite as Fawcett et al. 2022 https://arxiv.org/abs/2201.04139?context=astro-ph
 
